@@ -39,8 +39,4 @@ Based on the accuracy results, Logistic Regression outperformed the deep learnin
 ## Usage
 You can clone this repository to reproduce the results or further experiment with different models and hyperparameters. Each model's implementation is provided in separate notebooks or scripts for clarity and ease of understanding.
 
-## Requirements
-- Python (version)
-- Libraries: TensorFlow, Keras, Scikit-learn, NLTK, etc.
-
 ---
