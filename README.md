@@ -3,7 +3,7 @@
 This repository contains the implementation and evaluation of various machine learning and deep learning models for sentiment analysis on IMDB movie reviews dataset. The goal is to predict whether a review is positive or negative based on the text content.
 
 ## Dataset
-The IMDB movie reviews dataset consists of 50,000 movie reviews labeled as positive or negative. It is commonly used for sentiment analysis tasks and provides a balanced distribution of reviews across classes.
+The IMDB movie reviews dataset consists of 40,000 movie reviews labeled as positive or negative. It is commonly used for sentiment analysis tasks and provides a balanced distribution of reviews across classes.
 
 ## Models Implemented
 - **Machine Learning Models:**
